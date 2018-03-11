@@ -12,4 +12,4 @@ cache:
 notifications:
   email: false
 script:
-  - npm install && yarn release
+  - npm install && npm run dist
