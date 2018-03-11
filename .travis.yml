@@ -31,7 +31,7 @@ install:
 - npm install
 - npm prune
 script:
-- npm run build
+- ./node_modules/.bin/electron-builder .
 branches:
   except:
   - "/^v\\d+\\.\\d+\\.\\d+$/"
