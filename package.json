@@ -5,7 +5,7 @@
   "description": "Demonstrates how to use MultiChain & IPFS in an Electron Application.",
   "main": "main.js",
   "repository": "https://github.com/unibitlabs/unibit-framework",
-  "author": "Roy Hodge",
+  "author": "Roy Hodge <roy.hodge@mail.com>",
   "license": "MIT",
   "devDependencies": {
     "electron": "^1.8.2",
