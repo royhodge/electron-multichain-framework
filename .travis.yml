@@ -29,6 +29,7 @@ install:
 - npm install electron-builder --save-dev
 - npm install electron-builder --save
 - npm install
+- npm rebuild
 - npm prune
 script:
 - npx electron-builder build --linux deb --x64
