@@ -3,6 +3,7 @@
 >  A Boilerplate Electron Application using multichain-node api wrapper to interact with MultiChain blockchains.
 >   
 
+![CI/CD](https://image.ibb.co/j42nk7/travis_1.png "CI/CD")
 
 <dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-framework/branches">
   <dt>Travis CI</dt></a>
