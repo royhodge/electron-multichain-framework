@@ -11,3 +11,7 @@
     <dt>AppVeyor</dt></a>
   <dd><img src="https://ci.appveyor.com/api/projects/status/c0ktjf99cqm19f3m?svg=true"></dd>
 </dl>
+
+![screenshot][https://image.ibb.co/dfZUF7/demo_mc.png]
+
+Releases coming after we finish cleaning up the interface & adding required modules.
