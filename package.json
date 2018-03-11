@@ -16,7 +16,7 @@
   },
   "scripts": {
     "start": "electron .",
-    "build": "npx electron-builder . --linux",
+    "build": "npx electron-builder build --linux deb --x64",
     "release": "npm run build",
     "start-mac": "/Applications/Electron.app/Contents/MacOS/Electron .",
     "package-linux": "electron-packager . unibit-framework --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/unibit.png --prune=true --out=release-builds"
