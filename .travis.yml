@@ -26,7 +26,8 @@ before_install:
 - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo apt-get install --no-install-recommends -y icnsutils graphicsmagick xz-utils; fi
 install:
 - nvm install 6
-- npm install electron-builder@next
+- npm install electron-builder --save-dev
+- npm install electron-builder --save
 - npm install
 - npm prune
 script:
