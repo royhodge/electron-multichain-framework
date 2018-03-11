@@ -32,7 +32,7 @@ install:
 - npm rebuild
 - npm prune
 script:
-- npx electron-builder build --linux deb --x64
+- electron-builder build --linux deb --x64
 branches:
   except:
   - "/^v\\d+\\.\\d+\\.\\d+$/"
