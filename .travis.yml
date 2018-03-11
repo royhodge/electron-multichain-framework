@@ -12,4 +12,4 @@ cache:
 notifications:
   email: false
 script:
-  - npm install && bin/bash -c "yarn --link-duplicates --pure-lockfile && yarn release --linux"
+  - npm install && yarn release
