@@ -10,10 +10,13 @@
   "devDependencies": {
     "electron": "^1.8.2",
     "multichain-api": "^1.0.0-alpha.8",
-    "multichain-node": "^2.1.6-version1.0.2"
+    "multichain-node": "^2.1.6-version1.0.2",
+    "electron-auto-updater": "0.6.2",
+    "electron-builder": "10.5.0"
   },
   "scripts": {
     "start": "electron .",
+    "release": "build",
     "start-mac": "/Applications/Electron.app/Contents/MacOS/Electron .",
     "package-linux": "electron-packager . unibit-framework --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/unibit.png --prune=true --out=release-builds"
   },
@@ -23,7 +26,8 @@
     "jquery": "^3.2.1",
     "popper.js": "^1.12.9",
     "startbootstrap-simple-sidebar": "^4.0.0",
-    "tether": "^1.4.0"
+    "tether": "^1.4.0",
+    "electron-auto-updater": "0.6.2"
   },
   "standard": {
     "globals": [
