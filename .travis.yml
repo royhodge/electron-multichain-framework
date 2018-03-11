@@ -33,6 +33,5 @@ install:
 - npm prune
 script:
 - npx electron-builder build --linux deb --x64
-branches:
-  except:
-  - "/^v\\d+\\.\\d+\\.\\d+$/"
+- npx electron-builder build --darwin --x64
+
