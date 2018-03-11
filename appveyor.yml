@@ -9,6 +9,7 @@ cache:
 install:
   - ps: Install-Product node 8 x64
   - npm install
+  - npm install electron-packager -g
 
 build_script:
   - npm run dist
