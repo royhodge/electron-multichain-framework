@@ -5,17 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "./test/run",
+    "build": "npm install && npm run dist"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scoin/multichain-node.git"
   },
-  "keywords": [
-    "blockchain",
-    "multichain",
-    "bitcoin",
-    "rpc"
-  ],
   "author": "Greg Piccolo",
   "license": "ISC",
   "bugs": {
