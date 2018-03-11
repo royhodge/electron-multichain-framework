@@ -1,3 +1,3 @@
-# Title
+# Electron Front-End Wallet for MultiChain blockchains
 
-https://travis-ci.org/unibitlabs/electron-multichain-framework.svg?branch=master
+![Build_Status](https://travis-ci.org/unibitlabs/electron-multichain-framework.svg?branch=master)
