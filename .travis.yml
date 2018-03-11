@@ -25,14 +25,14 @@ before_install:
   | tar -xz -C /tmp/git-lfs --strip-components 1 && /tmp/git-lfs/git-lfs pull
 - if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then sudo apt-get install --no-install-recommends -y icnsutils graphicsmagick xz-utils; fi
 install:
-- nvm install 6
+- nvm install 8
 - npm install electron-builder --save-dev
 - npm install electron-builder --save
 - npm install
 - npm rebuild
 - npm prune
 script:
-- electron-builder build --linux deb --x64
+- npx electron-builder build --linux deb --x64
 branches:
   except:
   - "/^v\\d+\\.\\d+\\.\\d+$/"
