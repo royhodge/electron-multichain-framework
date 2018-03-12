@@ -5,6 +5,10 @@
 
 ![Downloads_blue](https://badged.co/Unibitlabs/electron-multichain-framework?badge=https://img.shields.io/badge/downloads-%s-blue.svg)
 
+'''
+npm install && npm start
+'''
+
 <dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-framework/branches">
   <dt>Travis CI</dt></a> Linux/MacOS Build
   <dd><img src="https://travis-ci.org/unibitlabs/electron-multichain-framework.svg?branch=master"></dd>
