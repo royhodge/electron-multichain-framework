@@ -4,6 +4,7 @@
 >   
 
 ![Downloads_blue](https://badged.co/Unibitlabs/electron-multichain-framework?badge=https://img.shields.io/badge/downloads-%s-blue.svg)
+
 Development Mode:
 ~~~~bash
 npm install && npm start
