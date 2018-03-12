@@ -6,10 +6,10 @@
 ![Downloads_blue](https://badged.co/Unibitlabs/electron-multichain-framework?badge=https://img.shields.io/badge/downloads-%s-blue.svg)
 
 <dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-framework/branches">
-  <dt>Travis CI</dt></a>
+  <dt>Travis CI</dt></a> Linux/MacOS Build
   <dd><img src="https://travis-ci.org/unibitlabs/electron-multichain-framework.svg?branch=master"></dd>
   <a href="https://ci.appveyor.com/project/Roy/electron-multichain-framework">
-    <dt>AppVeyor</dt></a>
+    <dt>AppVeyor</dt></a> Windows Build
   <dd><img src="https://ci.appveyor.com/api/projects/status/c0ktjf99cqm19f3m?svg=true"></dd>
 </dl>
 
