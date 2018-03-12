@@ -4,10 +4,11 @@
 >   
 
 ![Downloads_blue](https://badged.co/Unibitlabs/electron-multichain-framework?badge=https://img.shields.io/badge/downloads-%s-blue.svg)
-
+Development Mode:
 ~~~~bash
 npm install && npm start
 ~~~~
+*Notice, Should start with 2 errors reporting that localhost will not accept connection unless you have multichain running on the correct port. Currently editing this..
 
 <dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-framework/branches">
   <dt>Travis CI</dt></a> Linux/MacOS Build
