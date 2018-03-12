@@ -3,6 +3,8 @@
 >  A Boilerplate Electron Application using multichain-node api wrapper to interact with MultiChain blockchains.
 >   
 
+![Downloads badge](https://badged.co/Unibitlabs/electron-multichain-framework)
+
 <dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-framework/branches">
   <dt>Travis CI</dt></a>
   <dd><img src="https://travis-ci.org/unibitlabs/electron-multichain-framework.svg?branch=master"></dd>
