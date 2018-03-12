@@ -4,7 +4,7 @@
 >   
 
 ![Downloads badge](https://badged.co/Unibitlabs/electron-multichain-framework)
-
+![Downloads_social](https://img.shields.io/github/downloads/unibitlabs/electron-multichain-framework/total.svg)
 <dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-framework/branches">
   <dt>Travis CI</dt></a>
   <dd><img src="https://travis-ci.org/unibitlabs/electron-multichain-framework.svg?branch=master"></dd>
