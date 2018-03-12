@@ -5,6 +5,7 @@
 
 ![Downloads badge](https://badged.co/Unibitlabs/electron-multichain-framework)
 ![Downloads_social](https://img.shields.io/github/downloads/unibitlabs/electron-multichain-framework/total.svg)
+![Downloads_blue](https://badged.co/Unibitlabs/electron-multichain-framework?badge=https://img.shields.io/badge/downloads-%s-blue.svg)
 <dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-framework/branches">
   <dt>Travis CI</dt></a>
   <dd><img src="https://travis-ci.org/unibitlabs/electron-multichain-framework.svg?branch=master"></dd>
