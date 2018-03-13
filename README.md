@@ -9,6 +9,7 @@
 ![Discord](https://img.shields.io/discord/393883776096272384.svg)
 ![Repo_Size](https://img.shields.io/github/repo-size/badges/shields.svg)
 ![Contributors](https://img.shields.io/github/contributors/unibitlabs/electron-multichain-framework.svg)
+:rocket:
 
 Development Mode:
 ~~~~bash
