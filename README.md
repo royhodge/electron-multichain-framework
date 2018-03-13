@@ -1,6 +1,6 @@
 # Electron Front-End Wallet for MultiChain blockchains
 
->  A Boilerplate Electron Application using multichain-node api wrapper to interact with MultiChain blockchains.
+>  A Boilerplate Electron Application using **multichain-node** api wrapper to interact with MultiChain blockchains.
 >   
 
 ![Downloads_blue](https://badged.co/Unibitlabs/electron-multichain-framework/total?badge=https://img.shields.io/badge/downloads-%s-blue.svg)
