@@ -8,7 +8,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/unibitlabs.svg?style=social&logo=twitter&label=Follow&maxAge=2592000)
 ![Discord](https://img.shields.io/discord/393883776096272384.svg)
 ![Repo_Size](https://img.shields.io/github/repo-size/badges/shields.svg)
-
+![Contributors](https://img.shields.io/github/contributors/unibitlabs/electron-multichain-framework.svg)
 
 Development Mode:
 ~~~~bash
