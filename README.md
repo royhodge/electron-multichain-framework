@@ -2,7 +2,7 @@
 
 >  A Boilerplate Electron Application using **multichain-node** api wrapper to interact with MultiChain blockchains.
 >   
-:sunglasses: ![Twitter](https://img.shields.io/twitter/follow/unibitlabs.svg?style=social&logo=twitter&label=Follow&maxAge=2592000)
+![Twitter](https://img.shields.io/twitter/follow/unibitlabs.svg?style=social&logo=twitter&label=Follow&maxAge=2592000)
 ![Discord](https://img.shields.io/discord/393883776096272384.svg)
 
 
