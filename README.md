@@ -3,12 +3,13 @@
 >  A Boilerplate Electron Application using **multichain-node** api wrapper to interact with MultiChain blockchains.
 >   
 :sunglasses: ![Twitter](https://img.shields.io/twitter/follow/unibitlabs.svg?style=social&logo=twitter&label=Follow&maxAge=2592000)
+![Discord](https://img.shields.io/discord/393883776096272384.svg)
 
 
 ![Downloads_blue](https://badged.co/Unibitlabs/electron-multichain-framework/total?badge=https://img.shields.io/badge/downloads-%s-blue.svg)
-![Commits_since](https://img.shields.io/github/commits-since/unibitlabs/electron-multichain-framework/1.0.0.svg)
-![Discord](https://img.shields.io/discord/393883776096272384.svg)
 ![Repo_Size](https://img.shields.io/github/repo-size/badges/shields.svg)
+
+![Commits_since](https://img.shields.io/github/commits-since/unibitlabs/electron-multichain-framework/1.0.0.svg)
 ![Contributors](https://img.shields.io/github/contributors/unibitlabs/electron-multichain-framework.svg)
 
 Development Mode:
