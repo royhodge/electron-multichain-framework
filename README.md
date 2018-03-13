@@ -15,7 +15,7 @@ Development Mode:
 ~~~~bash
 npm install && npm start
 ~~~~
-*Notice, Should start with 2 errors reporting that localhost will not accept connection unless you have multichain running on the correct port. Currently editing this..
+:collision:*Notice, Should start with 2 errors reporting that localhost will not accept connection unless you have multichain running on the correct port. Currently editing this..
 
 ![screenshot_error1](https://image.ibb.co/h2Fcnn/2018_03_12_15_32_19_Error.png "Error 1")
 ![screenshot_error2](https://image.ibb.co/jCx1DS/2018_03_12_15_33_03_Error.png "Error 2")
