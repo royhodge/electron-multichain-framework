@@ -1,16 +1,17 @@
 "use strict";
 
 const assert = require('assert');
+const globalConfig = require(path.join(__dirname, 'config.json'))
 var address1;
 var issuedata;
 var listassets;
 var totalbalance;
 var listwallettransactions;
 const connection = {
-    port: "2900",
-    host: '127.0.0.1',
-    user: "multichainrpc",
-    pass: "9mMUBoAZGiQQwfGMguFrj2DfMfdgHdyydR4GyhTiHLxH"
+    port: globalConfig.connection.port,
+    host: globalConfig.connection.host,
+    user: globalConfig.connection.user,
+    pass: globalConfig.connection.pass
 } 
 const bluebird = require("bluebird");
 console.log("Connecting....")
