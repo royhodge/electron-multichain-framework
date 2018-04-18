@@ -7,6 +7,7 @@ const os = require('os')
 const path = require('path')
 const config = require(path.join(__dirname, 'package.json'))
 const BrowserWindow = electron.BrowserWindow
+const globalConfig = require(path.join(__dirname, 'config.json'))
 
 app.setName(config.productName)
 
@@ -19,10 +20,10 @@ fs.appendFile('myaddresses.txt', 'address-1', function (err) {
 
 
 let multichain = require("multichain-node")({
-    port: 2900,
-    host: '127.0.0.1',
-    user: "multichainrpc",
-    pass: "9mMUBoAZGiQQwfGMguFrj2DfMfdgHdyydR4GyhTiHLxH",
+    port: globalConfig.connection.port,
+    host: globalConfig.connection.host,
+    user: globalConfig.connection.user,
+    pass: globalConfig.connection.pass,
 });
 
 multichain.getInfo((err, info) => {
