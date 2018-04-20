@@ -7,9 +7,8 @@
 
 
 
-[![Github All Releases](https://img.shields.io/github/downloads/unibitlabs/electron-multichain-wallet/total.svg?style=social)](https://github.com/unibitlabs/electron-multichain-wallet)
+[![Github All Releases](https://img.shields.io/github/downloads/unibitlabs/electron-multichain-wallet/total.svg?style=social)](https://github.com/unibitlabs/electron-multichain-wallet/releases)
 ![Repo_Size](https://img.shields.io/github/repo-size/badges/shields.svg)
-
 ![Commits_since](https://img.shields.io/github/commits-since/unibitlabs/electron-multichain-framework/1.0.0.svg)
 ![Contributors](https://img.shields.io/github/contributors/unibitlabs/electron-multichain-framework.svg)
 
