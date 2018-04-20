@@ -14,9 +14,14 @@
 
 Development Mode:
 ~~~~bash
+git clone https://github.com/unibitlabs/electron-multichain-wallet.git
+cd electron-multichain-wallet
 npm install && npm start
 ~~~~
+
+<s>
 :collision: Should start with 2 errors reporting that localhost will not accept connection unless you have multichain running on the correct port. Currently editing this..
+</s>
 
 ![screenshot_error1](https://image.ibb.co/h2Fcnn/2018_03_12_15_32_19_Error.png "Error 1")
 ![screenshot_error2](https://image.ibb.co/jCx1DS/2018_03_12_15_33_03_Error.png "Error 2")
