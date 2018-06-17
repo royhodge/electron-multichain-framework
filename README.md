@@ -4,7 +4,7 @@
 >   
 [![Twitter](https://img.shields.io/twitter/follow/unibitlabs.svg?style=social&logo=twitter&label=Follow&maxAge=2592000)](https://twitter.com/UnibitProject)
 [![Discord](https://img.shields.io/discord/393883776096272384.svg)](https://discord.gg/fhvWr8M)
-
+[![CodeFactor](https://www.codefactor.io/repository/github/unibitlabs/electron-multichain-wallet/badge/master)](https://www.codefactor.io/repository/github/unibitlabs/electron-multichain-wallet/overview/master)
 
 [![Github All Releases](https://img.shields.io/github/downloads/unibitlabs/electron-multichain-wallet/total.svg?style=social)](https://github.com/unibitlabs/electron-multichain-wallet/releases)
 ![Repo_Size](https://img.shields.io/github/repo-size/badges/shields.svg)
