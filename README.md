@@ -25,7 +25,7 @@ npm install && npm start
 ![screenshot_error1](https://image.ibb.co/h2Fcnn/2018_03_12_15_32_19_Error.png "Error 1")
 ![screenshot_error2](https://image.ibb.co/jCx1DS/2018_03_12_15_33_03_Error.png "Error 2")
 
-<dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-framework/branches">
+<dl><a href="https://travis-ci.org/unibitlabs/electron-multichain-wallet">
   <dt>Travis CI</dt></a> Linux/MacOS Build
   <dd><img src="https://travis-ci.org/unibitlabs/electron-multichain-wallet.svg?branch=master"></dd>
   <a href="https://ci.appveyor.com/project/Roy/electron-multichain-framework">
