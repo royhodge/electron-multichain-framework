@@ -2,20 +2,15 @@
   "name": "multichain-node",
   "version": "2.0.1-alpha24",
   "description": "A wrapper for the Multichain JSON-RPC api that parses your input.",
+  "author": "John Doe <john.doe@mail.com>",
   "main": "index.js",
   "scripts": {
-    "test": "./test/run",
+    "test": "./test/run"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/scoin/multichain-node.git"
   },
-  "keywords": [
-    "blockchain",
-    "multichain",
-    "bitcoin",
-    "rpc"
-  ],
   "author": "Greg Piccolo",
   "license": "ISC",
   "bugs": {

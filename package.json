@@ -5,15 +5,20 @@
   "description": "Demonstrates how to use MultiChain & IPFS in an Electron Application.",
   "main": "main.js",
   "repository": "https://github.com/unibitlabs/unibit-framework",
-  "author": "Dane Walter, Jon Stokes, Roy Hodge",
+  "author": "Roy Hodge <roy.hodge@mail.com>",
   "license": "MIT",
   "devDependencies": {
     "electron": "^1.8.2",
     "multichain-api": "^1.0.0-alpha.8",
-    "multichain-node": "^2.1.6-version1.0.2"
+    "multichain-node": "^2.1.6-version1.0.2",
+    "electron-auto-updater": "0.6.2",
+    "electron-builder": "10.5.0"
   },
   "scripts": {
     "start": "electron .",
+    "build": "npx electron-builder build --linux deb --x64",
+    "build-mac": "npx electron-builder build --darwin --x64",
+    "release": "npm run build",
     "start-mac": "/Applications/Electron.app/Contents/MacOS/Electron .",
     "package-linux": "electron-packager . unibit-framework --overwrite --asar=true --platform=linux --arch=x64 --icon=assets/icons/png/unibit.png --prune=true --out=release-builds"
   },
@@ -23,7 +28,8 @@
     "jquery": "^3.2.1",
     "popper.js": "^1.12.9",
     "startbootstrap-simple-sidebar": "^4.0.0",
-    "tether": "^1.4.0"
+    "tether": "^1.4.0",
+    "electron-auto-updater": "0.6.2"
   },
   "standard": {
     "globals": [
