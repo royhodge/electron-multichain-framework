@@ -1,0 +1,15 @@
+platform:
+  - x64
+
+cache:
+  - node_modules
+  - '%APPDATA%\npm-cache'
+  - '%USERPROFILE%\.electron'
+
+install:
+  - ps: Install-Product node 8 x64
+  - npm install
+  - npm install electron-packager -g
+
+build_script:
+  - npm run dist
